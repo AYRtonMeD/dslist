@@ -4,7 +4,7 @@ public interface GameMinProjection {
 
     long getId();
     String getTitle();
-    String getYear();
+    String getGameYear();
     String getImageUrl();
     String getShortDescription();
     Integer getPosition();
